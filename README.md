@@ -1,2 +1,3 @@
-# coding-dojo
+# Coding Dojo
+
 Repo to unify all Dojos
