@@ -29,7 +29,7 @@ class FizzBuzzTest < Minitest::Test
 
   def test_divisible_by_nil
     assert_raises ArgumentError do
-       FizzBuzz.from(nil)
+      FizzBuzz.from(nil)
     end
   end
 
